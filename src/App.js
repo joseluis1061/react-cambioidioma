@@ -1,8 +1,8 @@
 import React from 'react';
 import Header from './components/Header';
 import Grid from './components/Grid';
-import './styles.css';
 import {FormattedMessage, FormattedDate} from 'react-intl';
+import './styles.css';
 
 const App = () => {
 	return (
